@@ -1,16 +1,54 @@
-# React + Vite
+# 💼 Personal Portfolio – Parag Sunil Patil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with **React + Vite**, showcasing my projects, skills, and contact information as a Frontend Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Portfolio
 
-## React Compiler
+👉 https://YOUR-VERCEL-LINK-HERE
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS (component-based styling)
+- Git & GitHub
+- Vercel (deployment)
+
+---
+
+## 📂 Sections
+
+- **Header** – navigation to different sections
+- **Hero** – short intro and call-to-action buttons
+- **About** – background and career focus
+- **Skills** – technologies and tools
+- **Projects** – Edusity & Movie Explorer with live & code links
+- **Contact** – email, phone and GitHub
+
+---
+
+## 🧑‍💻 Projects Highlighted
+
+### 🎬 Movie Explorer – React Movie Search App
+- Search movies using TMDB API.
+- Trending movies view & movie details modal.
+- Fully responsive UI and deployed on Vercel.
+
+### 🎓 Edusity – Online Learning Platform UI
+- Responsive React UI for an education platform.
+- Built with reusable components and clean layout.
+
+---
+
+## 🛠️ Run Locally
+
+```bash
+git clone https://github.com/Parag317/portfolio.git
+cd portfolio
+npm install
+npm run dev
