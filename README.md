@@ -6,7 +6,7 @@ This is my personal portfolio website built with **React + Vite**, showcasing my
 
 ## 🔗 Live Portfolio
 
-👉 https://YOUR-VERCEL-LINK-HERE
+👉 👉 https://portfolio-j5ep3fetd-parags-projects-a645e34e.vercel.app
 
 ---
 
